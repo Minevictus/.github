@@ -1,0 +1,4 @@
+{
+  "name": "Deploy Package Workflow",
+  "description": "Deploy a Maven package for the project."
+}

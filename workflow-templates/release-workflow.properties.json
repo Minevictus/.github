@@ -1,0 +1,4 @@
+{
+  "name": "Release Workflow",
+  "description": "Compile and make a release for a tagged project."
+}
