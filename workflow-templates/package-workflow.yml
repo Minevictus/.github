@@ -34,3 +34,5 @@ jobs:
         run: chmod +x gradlew
       - name: Publish with Gradle
         run: ./gradlew publish --no-daemon
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
